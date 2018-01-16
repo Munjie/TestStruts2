@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88edb5d3-2a33-46a8-ab01-5b91f7e8bb67" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TestStruts2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../TestStruts2/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="88edb5d3-2a33-46a8-ab01-5b91f7e8bb67" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../TestStruts2/out/" />
     <ignored path="$PROJECT_DIR$/../TestStruts2/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -433,7 +431,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516069331115</updated>
-      <workItem from="1516069334591" duration="12526000" />
+      <workItem from="1516069334591" duration="12538000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1516072777060</created>
@@ -498,11 +496,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516084193309</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add file.jsp">
+      <created>1516084512921</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1516084512921</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12526000" />
+    <option name="totallyTimeSpent" value="12538000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
