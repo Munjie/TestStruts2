@@ -13,5 +13,12 @@
             <result name="index">/index.jsp</result>
             <result name="error">/error.jsp</result>
         </action>
+
+
+        <action name="login2" class="com.mwj.action.UserAction2">
+            <result name="ok">/ok.jsp</result>
+            <result name="index">/index.jsp</result>
+            <result name="error">/error.jsp</result>
+        </action>
     </package>
 </struts>
