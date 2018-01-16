@@ -11,6 +11,11 @@
     <title>Title</title>
 </head>
 <body>
-<h1>hello</h1>
+<s:iterator value="all">
+    <s:property value="name"></s:property>
+    <s:property value="pwd"></s:property><br>
+</s:iterator>
+<hr>
+<img src="pic/<s:property value="myFileFileName"></s:property>">
 </body>
 </html>
