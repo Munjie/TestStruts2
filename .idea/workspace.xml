@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88edb5d3-2a33-46a8-ab01-5b91f7e8bb67" name="Default" comment="" />
+    <list default="true" id="88edb5d3-2a33-46a8-ab01-5b91f7e8bb67" name="Default" comment="add file.jsp">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TestStruts2/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../TestStruts2/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TestStruts2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../TestStruts2/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/../TestStruts2/out/" />
     <ignored path="$PROJECT_DIR$/../TestStruts2/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +29,7 @@
       <file leaf-file-name="UserAction.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../TestStruts2/src/main/java/com/mwj/action/UserAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-50">
+            <state relative-caret-position="-25">
               <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -252,8 +255,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HR" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="F:/GitStru" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -431,7 +434,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516069331115</updated>
-      <workItem from="1516069334591" duration="12538000" />
+      <workItem from="1516069334591" duration="13429000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1516072777060</created>
@@ -503,11 +506,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516084512921</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add file.jsp">
+      <created>1516084522094</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1516084522094</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12538000" />
+    <option name="totallyTimeSpent" value="13429000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -522,7 +532,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20434782" sideWeight="0.2553305" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18478261" sideWeight="0.25746268" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.4978678" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -538,7 +548,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.4978678" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20434782" sideWeight="0.7446695" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18478261" sideWeight="0.7425373" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47173914" sideWeight="0.4978678" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.4978678" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -560,6 +570,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="F:/mygithub" />
+    </ignored-roots>
     <MESSAGE value="first" />
     <MESSAGE value="add main.jsp" />
     <MESSAGE value="add file.jsp" />
@@ -691,7 +704,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../TestStruts2/src/main/java/com/mwj/action/UserAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
+        <state relative-caret-position="-25">
           <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
