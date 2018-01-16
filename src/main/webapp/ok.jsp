@@ -1,3 +1,4 @@
+<%@ taglib prefix="s" uri="/struts-tags"   %>
 <%--
   Created by IntelliJ IDEA.
   User: Administrator
@@ -11,7 +12,7 @@
     <title>Title</title>
 </head>
 <body>
-<s:iterator value="all">
+<s:iterator value="display">
     <s:property value="name"></s:property>
     <s:property value="pwd"></s:property><br>
 </s:iterator>

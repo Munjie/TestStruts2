@@ -60,6 +60,9 @@ public class UserAction {
     }
 
     public  String login(){
+
+        System.out.println(user.getName());
+        System.out.println(user.getPwd());
       try {
           String path = ServletActionContext.getRequest().getServletContext().getRealPath("/pic/");
           FileUtils.copyFile(myFile,new File(path +"/"+myFileFileName));
@@ -67,10 +70,14 @@ public class UserAction {
           e.printStackTrace();
       }
 
-
-        if ("mwj".equals(user.getName()) && "123".equals(user.getPwd()))
+        if ("mwj".equals(user.getName()) && "123".equals(user.getPwd())) {
             display = userServices.display();
             return  "ok";
+        }else
+            return
+
+            null;
+
 
     }
 }
