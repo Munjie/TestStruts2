@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88edb5d3-2a33-46a8-ab01-5b91f7e8bb67" name="Default" comment="add file.jsp">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TestStruts2/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../TestStruts2/.idea/vcs.xml" />
+    <list default="true" id="88edb5d3-2a33-46a8-ab01-5b91f7e8bb67" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TestStruts2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../TestStruts2/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../TestStruts2/out/" />
@@ -29,8 +28,8 @@
       <file leaf-file-name="UserAction.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../TestStruts2/src/main/java/com/mwj/action/UserAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-25">
-              <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="30" />
+            <state relative-caret-position="525">
+              <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -434,7 +433,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516069331115</updated>
-      <workItem from="1516069334591" duration="13429000" />
+      <workItem from="1516069334591" duration="13723000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1516072777060</created>
@@ -513,11 +512,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516084522094</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add file.jsp">
+      <created>1516085419763</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1516085419763</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13429000" />
+    <option name="totallyTimeSpent" value="13723000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -548,10 +554,10 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.4978678" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18478261" sideWeight="0.7425373" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18478261" sideWeight="0.7425373" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47173914" sideWeight="0.4978678" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.4978678" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -704,8 +710,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../TestStruts2/src/main/java/com/mwj/action/UserAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
-          <caret line="43" column="30" lean-forward="false" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="30" />
+        <state relative-caret-position="525">
+          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
