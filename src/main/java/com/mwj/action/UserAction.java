@@ -42,6 +42,15 @@ public class UserAction {
     private User user;
     private UserServices userServices = new UserServices();
     private List<User> display;
+    private String [] hobby;
+
+    public String[] getHobby() {
+        return hobby;
+    }
+
+    public void setHobby(String[] hobby) {
+        this.hobby = hobby;
+    }
 
     public UserServices getUserServices() {
         return userServices;
@@ -63,6 +72,8 @@ public class UserAction {
 
         System.out.println(user.getName());
         System.out.println(user.getPwd());
+        for (String h : hobby)
+            System.out.println(h);
       try {
           String path = ServletActionContext.getRequest().getServletContext().getRealPath("/pic/");
           FileUtils.copyFile(myFile,new File(path +"/"+myFileFileName));
