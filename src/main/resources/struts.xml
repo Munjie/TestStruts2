@@ -7,6 +7,15 @@
 <struts>
 
     <package name="de" namespace="/" extends="struts-default">
+        
+        <interceptors>
+            <interceptor name="myInterceptor" class="com.mwj.action.MyInterceptor"></interceptor>
+            <interceptor-stack name="myStack">
+                <interceptor-ref name="myInterceptor"></interceptor-ref>
+                <interceptor-ref name="defaultStack"></interceptor-ref>
+            </interceptor-stack>
+        </interceptors>
+        <default-interceptor-ref name="myStack"></default-interceptor-ref>
 
         <action name="*Test" class="com.mwj.action.UserAction" method="{1}" >
             <result name="ok">/ok.jsp</result>

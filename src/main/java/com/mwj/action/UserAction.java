@@ -70,8 +70,7 @@ public class UserAction {
 
     public  String login(){
 
-        System.out.println(user.getName());
-        System.out.println(user.getPwd());
+        System.out.println("isruning");
         for (String h : hobby)
             System.out.println(h);
       try {
